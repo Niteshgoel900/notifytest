@@ -21,5 +21,5 @@ jobs:
       with:
         # Discord webhook endpoint. If not set, env.DISCORD_WEBHOOK will be used.
         webhook: ${{ secrets.DISCORD_WEBHOOOK }}
-        color: 0xFFFFFF
+        color: 1xFFFFFF
         noprefix: true
